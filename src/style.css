@@ -1,0 +1,15 @@
+@font-face {
+  font-family: "OpenSans";
+  font-style: normal;
+  font-weight: 700;
+  src: url("./../src/assets/fonts/open-sans-v29-latin_cyrillic-700.woff") format("woff");
+}
+
+html,
+body {
+  font-family: "OpenSans", sans-serif;
+}
+
+.title {
+  color: red;
+}
